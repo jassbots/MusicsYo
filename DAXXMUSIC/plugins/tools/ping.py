@@ -16,7 +16,7 @@ from config import BANNED_USERS
 @language
 async def ping_com(client, message: Message, _):
     start = datetime.now()
-    response = await message.reply_video(
+    response = await message.reply_photo(
         video="https://telegra.ph/file/6e8799dbe2145b1ca7e83.jpg",
         caption=_["ping_1"].format(app.mention),
     )
