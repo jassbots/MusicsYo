@@ -149,3 +149,8 @@ HELP_15 = """
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 /cspeed or /cplayback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ᴄʜᴀɴɴᴇʟ.
 """
+
+shizu_source = """
+<b><u>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b></u>
+
+ᴛʜɪs ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ [link](https://github.com/Sidhusaab0001/ShizuMusic)
