@@ -154,3 +154,4 @@ shizu_source = """
 <b><u>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b></u>
 
 ᴛʜɪs ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ [link](https://github.com/Sidhusaab0001/ShizuMusic)
+"""
