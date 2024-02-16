@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = get_random_photo()
-    "START_IMG_URL",[ "https://telegra.ph/file/48229fa542ecaacf55953.jpg",
+    "START_IMG_URL"[ "https://telegra.ph/file/48229fa542ecaacf55953.jpg",
                      "https://graph.org/file/73de6a895eae269972582.jpg",
                      "https://graph.org/file/d071ffc05b1b95486bf57.jpg",
                      "https://graph.org/file/2f80e2b0064bb2b51f106.jpg",
