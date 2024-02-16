@@ -140,8 +140,8 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
-START_IMG_URL = get_random_photo()
-    "START_IMG_URL"[ "https://telegra.ph/file/48229fa542ecaacf55953.jpg",
+START_IMG_URL = getenv (
+    "START_IMG_URL", "https://telegra.ph/file/48229fa542ecaacf55953.jpg",
                      "https://graph.org/file/73de6a895eae269972582.jpg",
                      "https://graph.org/file/d071ffc05b1b95486bf57.jpg",
                      "https://graph.org/file/2f80e2b0064bb2b51f106.jpg",
@@ -155,8 +155,8 @@ START_IMG_URL = get_random_photo()
                      "https://graph.org/file/41aa1b19c2d6313e01466.jpg",
                      "https://graph.org/file/782f09a5b484b9a91d5ee.jpg",
                      "https://graph.org/file/7518e20d913701f888191.jpg",
-                     "https://graph.org/file/e220854217eba6c7b4e0f.jpg",
-                    ]
+                     "https://graph.org/file/e220854217eba6c7b4e0f.jpg"
+ )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/880d4ac8dbf2ff673b205.jpg"
 )
