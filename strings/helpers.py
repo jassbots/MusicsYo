@@ -153,5 +153,5 @@ HELP_15 = """
 Shizu_source = """
 <b><u>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b></u>
 
-ᴛʜɪs ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ [link](https://github.com/Sidhusaab0001/ShizuMusic)
+ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴛʏᴘᴇ /repo.
 """
