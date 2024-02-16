@@ -4,7 +4,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXMUSIC&theme=flag-india)
 
-[![GIF](https://github.com/DAXXTEAM/DAXXMUSIC/blob/main/DAXXTEAM.gif)]
+[![GIF]([https://telegra.ph/file/9828db383ef5ace281366.mp4]
 
 <p align="center">
   <img src="https://telegra.ph/file/d858b66dde84a24dc08cf.jpg"
